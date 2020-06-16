@@ -3,6 +3,10 @@
       background-color: #6A7152;
       color: #FBFFF1;
     }
-    head {
+ head {
       font-family: "Times New Roman", Times, serif;
     }
+ h2 {
+     font-family: sans-serif;
+     text-decoration: underline;
+   }
